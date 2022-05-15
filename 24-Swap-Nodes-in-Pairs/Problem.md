@@ -7,7 +7,7 @@ You must solve the problem without modifying the values in the list's nodes
 Example 1:
 Input: head = [1,2,3,4]
 Output: [2,1,4,3]
-
+ 
 Example 2:
 Input: head = []
 Output: []
